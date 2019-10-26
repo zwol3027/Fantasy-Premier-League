@@ -3,7 +3,7 @@ import math
 import os
 
 def clean_players(filename, base_filename):
-    """ Creates a file with only important data columns for each player
+    """ Creates a file with only important data columns for each player.
 
     Args:
         filename (str): Name of the file that contains the full data for each player
